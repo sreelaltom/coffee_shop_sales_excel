@@ -1,4 +1,6 @@
 # Coffee Shop Sales Analysis
+![Coffee Shop Sales Dashboard](images.png)
+
 
 ## Overview
 This Excel workbook provides a comprehensive analysis of sales data for a coffee shop. The dashboard presents key metrics, visualizations, and insights into the coffee shop's performance across different time periods, locations, and product categories.
