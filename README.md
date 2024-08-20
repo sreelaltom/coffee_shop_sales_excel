@@ -1,5 +1,5 @@
 # Coffee Shop Sales Analysis
-![Coffee Shop Sales Dashboard](coffee_shop_sales_excel/image.png)
+![Coffee Shop Sales Dashboard](image.png)
 
 
 ## Overview
